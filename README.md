@@ -16,7 +16,6 @@ Python replication of Darmouni and Mota (2024, *Review of Financial Studies*), "
 - **The main Table 3 result replicates.** A one standard deviation higher COVID-19 exposure is associated with cash-like holdings about 1.6% of total assets higher (paper: 1.3%), significant at 1%.
 - **Securities effects are weaker than published**, and the corporate bond estimate changes sign when one firm (Booking Holdings) is dropped.
 
-![Figure 5 replication](figures/figure5_replication.png)
 
 ## How to run
 
